@@ -50,7 +50,8 @@ These scripts will use the `ffmpeg.exe` already included in this folder.
 
 ## 🧱 Final Folder Structure
 ```
-ffmpeg-master-latest-win64-gpl-shared/
+ffmpeg-master-latest-win64-gpl-shared
+Audio_Normalizer
 ├── bin/
 │   ├── ffmpeg.exe              # Already included in the FFmpeg zip
 │   ├── ffprobe.exe             # Already included
