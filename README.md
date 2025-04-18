@@ -5,7 +5,8 @@ A complete Python toolkit for LUFS normalization and True Peak limiting of audio
 ---
 <img width="521" alt="image" src="https://github.com/user-attachments/assets/3f41b913-c422-4e50-9066-85139c4e197a" />
 
-<img width="521" alt="image" src="https://github.com/user-attachments/assets/5016ad8c-2685-4828-a181-469c51e854f8" />
+<img width="599" alt="image" src="https://github.com/user-attachments/assets/20ccb6c3-9d50-4f66-8255-62b86d7aba48" />
+
 
 ---
 
