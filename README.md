@@ -3,6 +3,12 @@
 A complete Python toolkit for LUFS normalization and True Peak limiting of audio files. Supports both full track processing and sample normalization by instrument category.
 
 ---
+<img width="521" alt="image" src="https://github.com/user-attachments/assets/3f41b913-c422-4e50-9066-85139c4e197a" />
+
+<img width="521" alt="image" src="https://github.com/user-attachments/assets/5016ad8c-2685-4828-a181-469c51e854f8" />
+
+---
+
 
 ## 🚀 Features
 - Normalize full tracks for platforms like **YouTube, Spotify, Apple Music, DJ Live**.
