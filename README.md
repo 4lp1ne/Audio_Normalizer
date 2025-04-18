@@ -2,9 +2,9 @@
 
 A complete Python toolkit for LUFS normalization and True Peak limiting of audio files. Supports both full track processing and sample normalization by instrument category.
 
-Fully complied for windows with all needed files and exe under realases tab as a zip   
+Fully complied for windows with all needed files and exe under relases tab as a zip   
 
-# Realases ---------->
+# Relases ---------->
 
 
 ---
